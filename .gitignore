@@ -1,0 +1,7 @@
+mailbox.db
+*.db
+venv/
+.venv/
+TOKEN
+.env
+__pycache__/
